@@ -1,14 +1,16 @@
 Recurring Event analysis
 ----------------------------
 
-An attempt at a Bayesian re-analysis of http://mnras.oxfordjournals.org/content/454/4/3480.abstract
+An attempt at a Bayesian re-analysis of Rampino&Caldeira 2015
 
-Discussion thread: https://www.facebook.com/groups/astro.r/permalink/889900187772654/
-
-Code: extinction.py
+* Article: Rampino&Caldeira 2015 http://mnras.oxfordjournals.org/content/454/4/3480.abstract
+* Discussion thread: https://www.facebook.com/groups/astro.r/permalink/889900187772654/
 
 Model for the event probability
 ---------------------------------
+
+Code: extinction.py
+
 A flat distribution plus a Gaussian which is repeated.
 
 Parameters:
@@ -41,7 +43,7 @@ Conclusion: Signal detected/recovered.
 Analysis of Real data
 ------------------------
 
-* Data: extinction_testdata.txt
+* Data: extinction.txt
 
   * from the article
 
