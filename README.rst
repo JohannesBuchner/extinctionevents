@@ -5,6 +5,8 @@ An attempt at a Bayesian re-analysis of http://mnras.oxfordjournals.org/content/
 
 Discussion thread: https://www.facebook.com/groups/astro.r/permalink/889900187772654/
 
+Code: extinction.py
+
 Model for the event probability
 ---------------------------------
 A flat distribution plus a Gaussian which is repeated.
